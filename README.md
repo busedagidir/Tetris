@@ -1,8 +1,12 @@
 # Tetris
-easy 2D tetris game clone using keyboard "\n"
-w-> rotation "\n"
+easy 2D tetris game clone using keyboard
+
+w-> rotation 
+
 a-> left move
+
 s-> down move
+
 d-> right move
 
 
